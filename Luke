@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Luke's first website with github!</title>
+<style>
+h1,p {
+      font-color: blue;
+      font-family: arial, sans serif;
+}
+</style>
+<script>
+window.alert("Welcome to my first site using github!");
+</script>
+</head>
+<body>
+<h1> Hello World! </h1>
+<p> Hello World </p>
+</body>
+</html>
